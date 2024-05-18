@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @navin-6-kumar
+- 👋 Hi, I’m Navin Kumar
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to someone who can clear my doubts on learning web development
