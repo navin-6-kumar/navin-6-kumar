@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navin-6-kumar
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to someone who can clear my doubts on learning HTML & CSS
+- 💞️ I’m looking to someone who can clear my doubts on learning web development
 - 📫 How to reach me  navinkumarskp1603@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
